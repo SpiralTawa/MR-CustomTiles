@@ -8,6 +8,7 @@
         {"name": "leftEye", "startTile": 1014, "tiles":[1014, 1014, 1015, 1016], "delay": 2},
         {"name": "rightEye", "startTile": 1080, "tiles":[1080, 1080, 1081, 1082], "delay": 2},
         {"name": "lowerRightWing", "startTile": 1146, "tiles":[1146, 1146, 1147, 1148], "delay": 2},
-        {"name": "water", "startTile": 740, "tiles":[740, 729], "delay": 30}
+        {"name": "water", "startTile": 740, "tiles":[740, 729], "delay": 30},
+        {"name": "water", "startTile": 806, "tiles":[806, 795], "delay": 30}
     ]
 }
