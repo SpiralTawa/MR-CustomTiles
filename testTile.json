@@ -1,5 +1,0 @@
-{
-    "tileAnim":[
-        {"name": "test", "startTile": 662, "tiles":[62, 61, 60, 59, 58, 57], "delay": 4}
-    ]
-}
