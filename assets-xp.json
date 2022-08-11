@@ -1,0 +1,12 @@
+{
+    "tileAnim":[
+        {"name": "upperLeftWing", "startTile": 90, "tiles":[90, 91, 92], "delay": 2},
+        {"name": "leftHead", "startTile": 156, "tiles":[156, 157, 158], "delay": 2},
+        {"name": "rightHead", "startTile": 222, "tiles":[222, 223, 224], "delay": 2},
+        {"name": "upperRightWing", "startTile": 288, "tiles":[288, 289, 290], "delay": 2},
+        {"name": "lowerLeftWing", "startTile": 948, "tiles":[948, 949, 950], "delay": 2},
+        {"name": "leftEye", "startTile": 1014, "tiles":[1014, 1015, 1016], "delay": 2},
+        {"name": "rightEye", "startTile": 1080, "tiles":[1080, 1081, 1082], "delay": 2},
+        {"name": "lowerRightWing", "startTile": 1146, "tiles":[1146, 1147, 1148], "delay": 2}
+    ]
+}
