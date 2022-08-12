@@ -11,7 +11,7 @@
         {"name": "water", "startTile": 740, "tiles":[740, 729], "delay": 30},
         {"name": "water", "startTile": 806, "tiles":[806, 795], "delay": 30},
         {"name": "water", "startTile": 872, "tiles":[872, 861], "delay": 30},
-        {"name": "water", "mysteryBox": 872, "tiles":[24, 25, 26], "delay": 7},
-        {"name": "water", "crossBox": 872, "tiles":[1344, 1345, 1346], "delay": 7}
+        {"name": "water", "mysteryBox": 24, "tiles":[24, 25, 26], "delay": 7},
+        {"name": "water", "crossBox": 1344, "tiles":[1344, 1345, 1346], "delay": 7}
     ]
 }
