@@ -23,7 +23,7 @@
         {"name": "leftEye", "startTile": 683, "tiles":[683, 684, 685], "delay": 2},
         {"name": "rightEye", "startTile": 686, "tiles":[686, 687, 688], "delay": 2},
         {"name": "lowerRightWing", "startTile": 689, "tiles":[689, 690, 691], "delay": 2},
-        {"name": "plant", "startTile": 743, "tiles":[743, 744, 745], "delay": 2},
+        {"name": "plant", "startTile": 743, "tiles":[743, 744, 745], "delay": 4},
         {"name": "booOrb", "startTile": 796, "tiles":[796, 797, 798, 799], "delay": 2}
     ]
 }
