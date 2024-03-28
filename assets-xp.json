@@ -24,6 +24,7 @@
         {"name": "rightEye", "startTile": 686, "tiles":[686, 687, 688], "delay": 2},
         {"name": "lowerRightWing", "startTile": 689, "tiles":[689, 690, 691], "delay": 2},
         {"name": "plant", "startTile": 743, "tiles":[743, 744, 745], "delay": 4},
+        {"name": "plantBehindSpikes", "startTile": 1190, "tiles":[1190, 1191, 1192], "delay": 2},
         {"name": "booOrb", "startTile": 796, "tiles":[796, 797, 798, 799], "delay": 2}
     ]
 }
